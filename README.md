@@ -1,0 +1,1 @@
+Learn classical Win32 GUI programming from https://docs.microsoft.com/en-us/windows/desktop/LearnWin32/learn-to-program-for-windows
